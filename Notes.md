@@ -1,0 +1,1 @@
+- Solo pictures perform better than both mixed and double pictures --> Roughly 95% accuracy for solo 
